@@ -1,4 +1,5 @@
 diff a/.gitignore b/.gitignore	(rejected hunks)
+ hs_err_pid*
 @@ -24,3 +24,4 @@
  
  *.iml
